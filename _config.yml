@@ -1,6 +1,6 @@
 # Site settings
 title: Habib's boiler plage
-tagline: Boilerplate code for hosting a static holding page on GitHub pages
+tagline: Testing website
 
 url: "" # the base hostname & protocol for your site
 
@@ -9,11 +9,11 @@ color-primary: "#263238"
 
 # contact
 author:
-  name: Dan Buckland
-  url: http://github.com/danbuckland
+  name: Habib Khan
+  url: http://github.com/habibkhan14
 
-twitter_username: danbuckland
-github_username:  danbuckland
+twitter_username: habibkhan14
+github_username:  habibkhan14
 github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
 
 # Others
